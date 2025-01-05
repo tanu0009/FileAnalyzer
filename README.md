@@ -1,4 +1,4 @@
-# **DocSavvy**
+# **Text Extraction Engine**
 
 ---
 ### **Contents**
